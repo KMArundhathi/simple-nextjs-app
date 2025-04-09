@@ -8,7 +8,7 @@ This is a project built with Next.js and Tailwind CSS. The following document pr
    First, clone the project to your local machine using the following command:
    ```bash
    git clone https://github.com/KMArundhathi/simple-next-app
-   cd nextjs-document
+   cd simple-next-app
 
 2. **Install Dependencies**
 
